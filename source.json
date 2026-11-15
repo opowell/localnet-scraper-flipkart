@@ -1,0 +1,10 @@
+{
+  "scrapers": [
+    {
+      "name": "Flipkart",
+      "urlPattern": "flipkart.com",
+      "searchUrl": "https://www.flipkart.com/search?q={term}"
+    }
+  ],
+  "file": "flipkart.js"
+}
